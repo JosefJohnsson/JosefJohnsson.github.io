@@ -30,6 +30,7 @@ twitter_username: JohnssonJosef
 github_username:  JosefJohnsson
 
 # Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
