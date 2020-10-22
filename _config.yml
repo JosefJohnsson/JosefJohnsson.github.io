@@ -30,7 +30,7 @@ twitter_username: JohnssonJosef
 github_username:  JosefJohnsson
 
 # Build settings
-theme: tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
