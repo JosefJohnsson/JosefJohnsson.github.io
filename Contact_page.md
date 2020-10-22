@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Contact - Hydronic Heated Pavements"
+title: "Contact"
 permalink: /about/contact/
 ---
 
-Josef Johnnson
+Josef Johnsson  
 Josef.johnsson at chalmers.se
