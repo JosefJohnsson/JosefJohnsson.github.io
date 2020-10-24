@@ -3,9 +3,8 @@ layout: page
 title: "Under Construction"
 date: 2020-10-22 13:40:00 +0200
 categories: Info Contact
+tag: HERO
 ---
-
-
 This site is under construction. My previous site at chalmers has been closed down due to a change in the IT policies. 
 
 Josef
