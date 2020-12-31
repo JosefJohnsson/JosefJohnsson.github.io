@@ -14,4 +14,4 @@ Josef
 
 
 
-![Happy New Year](/assets/images/Happynewweay2020.jpeg) 
+<img src="/assets/images/Happynewyear2020.jpeg" alt="Happynewyear2020" width="400"/>
