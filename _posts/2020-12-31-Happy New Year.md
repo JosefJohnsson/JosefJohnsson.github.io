@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "UHappy New Year"
+title: "Happy New Year"
 date: 2020-12-31 12:00:00 +0100
 categories: Info 
 tag: General
@@ -14,4 +14,4 @@ Josef
 
 
 
-![Happy New Year](/assets/images/Happynewyear2020.jpeg) 
+![Happy New Year](/assets/images/Happynewweay2020.jpeg) 
